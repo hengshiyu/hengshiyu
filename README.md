@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![img]()
 
 I am a machine learning researcher on computational biology. I developed deep learning and reinforcement learning tools inspired from computer vision and natural language processing to solve problems in genomics and cellular biology. 
 - 🔭 I’m currently working on deep learning projects on genomics data. 
