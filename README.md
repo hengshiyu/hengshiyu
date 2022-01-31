@@ -23,7 +23,7 @@ hengshi@umich.edu
  <a href="https://vuejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/> </a> 
  <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/jupyter/jupyter.github.io/blob/master/assets/main-logo.svg" alt="Jupyter Notebook" width="40" height="40"/> </a> 
+ <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/jupyter/jupyter.github.io/blob/master/assets/share.png" alt="Jupyter Notebook" width="40" height="40"/> </a> 
 
 
 
