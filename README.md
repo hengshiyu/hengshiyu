@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am Hengshi Yu. 
-
 I am a machine learning researcher.
 
 #### Contact Details
