@@ -2,10 +2,7 @@
 
 I am Hengshi Yu. 
 
-I am a machine learning researcher on computational biology. I develop deep learning and reinforcement learning tools inspired from computer vision and natural language processing to solve problems in genomics and cellular biology. 
-- 🔭  I’m currently working on deep learning projects on genomics data. 
-- 🖥  I’m currently learning NLP (Stemming, Topic Modeling, TF-IDF, etc.)
-
+I am a machine learning researcher.
 
 #### Contact Details
 
